@@ -1,3 +1,11 @@
+ABOUT:
+
+Addressbook console program created with purpose to exercise C++.
+
+LICENCE:
+
+do what u want :)
+
 COMPILE:
 
 g++ -o Addressbook Addressbook.cpp
